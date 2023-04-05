@@ -1,2 +1,2 @@
-1. Installing react
-2. Installing Tailwind-CSS
+1. Install next js
+2. Install Tailwind-CSS
